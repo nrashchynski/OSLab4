@@ -1,0 +1,4 @@
+C:/Users/Lenovo/source/repos/OSLab4_original/out/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lenovo/source/repos/OSLab4_original/out/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Lenovo/source/repos/OSLab4_original/out/build/Receiver/CMakeFiles/Receiver.dir
+C:/Users/Lenovo/source/repos/OSLab4_original/out/build/Sender/CMakeFiles/Sender.dir

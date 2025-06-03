@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO\SOURCE\REPOS\OSLAB4_ORIGINAL\OUT\BUILD\CMAKEFILES\B052BE4F06B7A0FB73D3E61DB066BA77\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lenovo/source/repos/OSLab4_original -BC:/Users/Lenovo/source/repos/OSLab4_original/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Lenovo/source/repos/OSLab4_original/out/build/OSLab4_original.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
